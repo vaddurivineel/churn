@@ -1,0 +1,8 @@
+numpy==1.15.4
+pandas==1.0.0
+scikit_learn==0.20.3
+joblib==0.13.2
+sqlalchemy
+mysql-connector-python
+jupyter
+scipy==2
